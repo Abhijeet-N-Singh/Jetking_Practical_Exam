@@ -1,0 +1,19 @@
+here in this note. Sir, i am going to show you How to sell an NFT on Ethereum Blockchain.
+
+we have created NFT, it time to sell it .for doing this we need to log on the marketplace, open your collection and locate the NFt you wish to sell.
+
+select the nft and click on the "Sell" button underneath, this click will take to the page where you get to pick the price and the mode of sale.
+
+you gonna decide the price that has to be fixed or run an auction.
+
+you also have to choose the tokens you want to be paid in, on OpenSea you can only recieve Ethereum and other ERC-20 tokens.
+
+Click on the "Edit" button to dtermine the token you want to be paid in. 
+
+you have to decide that if you want that royalties on NFT or not.
+
+confirm your setting and your NFT's are for sale on the market place.
+
+  you will then be notifiedn if anyone decides to buy to your NFT.
+
+Cresting and listing NFT's for sale costs some Ethereum , so you need to ensure that your Ethereum wallet is funded ahead of time. 

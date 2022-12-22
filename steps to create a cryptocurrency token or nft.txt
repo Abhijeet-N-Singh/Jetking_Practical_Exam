@@ -1,0 +1,15 @@
+hello everyone my name is abhijeet singh! 
+here iam going to tell you how to create an NFT on Ethereum Blockchain.
+ 
+1. Go to opensea website.
+2. Click the "create" button and then connect your Ethereum Wallet and connect to opensea.
+3. Go baack to the "Create" button and hover until you see drop down options on that , click on "My collections".
+4. After the click on the resulting blue button with the "Create" inscription.
+5. Upload a file, create a description and add a name, here in the page you have to configure your collections.
+	select the appropriate name, describtion and image you want for your collection.
+6. Add a banner image to the screen by using the pencil icon in the top right corner.
+	after doing this, you can begin creating your NFT's.
+7. click on "Add New Item" and sign in to your wallet again, this time you will see a page that allows you to upload picture , audio, videos and GIF's.
+8. OpenSea allowa you to add special traits and characteristics to make your NFT unique, special or rare.
+9. when yourr are done, click on "Create" button, sign in to your wallet and confirm the creation.
+	you will see the NFT added to your collection.
